@@ -1,4 +1,4 @@
----
+angelbt91---
 title: DMCA Takedown Policy
 redirect_from:
   - /dmca/
@@ -23,8 +23,8 @@ As with all legal matters, it is always best to consult with a professional abou
 
 In order to understand the DMCA and some of the policy lines it draws, it's perhaps helpful to consider life before it was enacted.
 
-The DMCA provides a safe harbor for service providers that host user-generated content. Since even a single claim of copyright infringement can carry statutory damages of up to $150,000, the possibility of being held liable for user-generated content could be very harmful for service providers. With potential damages multiplied across millions of users, cloud-computing and user-generated content sites like YouTube, Facebook, or GitHub probably [never would have existed](https://arstechnica.com/tech-policy/2015/04/how-the-dmca-made-youtube/) without the DMCA (or at least not without passing some of that cost downstream to their users).
-
+The DMCA provides a safe harbor for service providers that host user-generated content. Since even a single claim of copyright infringement can carry statutory damages of up to $150,000, the possibility of being held liable for user-generated content could be very harmful for service providers. With potential damages multiplied across millions of users, cloud-computing and user-generated content sites like YouTube, Facebook, or GitHub probably [never would have existed](https://arstechnica.com/tech-policy/2015/04/how-the-dmca-made-youtube/) without the DMCA (or at least not without passing some of that cost downstream to their users).angelbt91
+angelbt91
 The DMCA addresses this issue by creating a [copyright liability safe harbor](https://www.copyright.gov/title17/92chap5.html#512) for internet service providers hosting allegedly infringing user-generated content. Essentially, so long as a service provider follows the DMCA's notice-and-takedown rules, it won't be liable for copyright infringement based on user-generated content. Because of this, it is important for GitHub to maintain its DMCA safe-harbor status.
 
 The DMCA also prohibits the [circumvention of technical measures](https://www.copyright.gov/title17/92chap12.html) that effectively control access to works protected by copyright. 
@@ -41,7 +41,7 @@ The DMCA notice and takedown process should be used only for complaints about co
 
 ## A. How Does This Actually Work?
 
-The DMCA framework is a bit like passing notes in class. The copyright owner hands GitHub a complaint about a user. If it's written correctly, we pass the complaint along to the user. If the user disputes the complaint, they can pass a note back saying so. GitHub exercises little discretion in the process other than determining whether the notices meet the minimum requirements of the DMCA. It is up to the parties (and their lawyers) to evaluate the merit of their claims, bearing in mind that notices must be made under penalty of perjury.
+El marco de la DMCA es un poco como pasar notas en clase. El propietario de los derechos de autor le entrega a GitHub una queja sobre un usuario. Si está escrito correctamente, transmitimos la queja al usuario. Si el usuario disputa la queja, puede devolver una nota indicándolo. GitHub ejerce poca discreción en el proceso, aparte de determinar si los avisos cumplen con los requisitos mínimos de la DMCA. Corresponde a las partes (y sus abogados) evaluar el mérito de sus reclamaciones, teniendo en cuenta que las notificaciones deben realizar bajo pena de perjurio.
 
 Here are the basic steps in the process.
 
