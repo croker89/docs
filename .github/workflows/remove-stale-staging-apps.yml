@@ -1,4 +1,4 @@
-name: Remove stale staging apps
+name: stale staging apps
 
 # **What it does**:
 # This cleans up any rogue staging applications that outlasted the closure of
@@ -36,3 +36,4 @@ jobs:
         env:
           HEROKU_API_TOKEN: ${{ secrets.HEROKU_API_TOKEN }}
           GITHUB_TOKEN: ${{ secrets.DOCUBOT_FR_PROJECT_BOARD_WORKFLOWS_REPO_ORG_READ_SCOPES }}
+       Control + space
